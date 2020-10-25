@@ -13,5 +13,7 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 Initializing the repo with my already fetched solutions.
 
 # Day 1
-1.🔵⭐ [Longest Substring without repest char](https://github.com/iam-aniket/DynamicProgramming/blob/master/AlgoExpert-BasicDP/11.%20Longest%20String%20Chain/Longest%20String%20Chain.cpp) <br />
+1.🔵⭐ [Longest Substring without repeat char](https://github.com/iam-aniket/DynamicProgramming/blob/master/AlgoExpert-BasicDP/11.%20Longest%20String%20Chain/Longest%20String%20Chain.cpp) <br />
 2.🔵Second temp <br />
+
+
