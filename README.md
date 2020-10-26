@@ -13,7 +13,8 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 Initializing the repo with my already fetched solutions.
 
 # Day 1
-1.🔵⭐ [Longest Substring without repeat char](https://github.com/iam-aniket/DynamicProgramming/blob/master/AlgoExpert-BasicDP/11.%20Longest%20String%20Chain/Longest%20String%20Chain.cpp) <br />
-2.🔵Second temp <br />
+1.🔵[Longest Substring without repeat char](https://github.com/iam-aniket/Interview-Prep/blob/main/Strings-Hard/Longest%20Substring%20without%20repeat%20char.cpp) <br />
+2.🔴[Longest Palindromic Substring](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Longest%20Palindromic%20Substring.cpp)<br />
+3.[Count Palindromic Substring](Easy only after solving above Q)<br/>
 
 
