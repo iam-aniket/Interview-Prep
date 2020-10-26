@@ -17,4 +17,10 @@ Initializing the repo with my already fetched solutions.
 2.🔴[Longest Palindromic Substring](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Longest%20Palindromic%20Substring.cpp)<br />
 3.  [Count Palindromic Substring](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Count%20Palindromic%20Substrings.cpp)(Easy only after solving above Q)<br/>
 
+# Day 2
+4.BAKWAAS - [String to Integer](https://github.com/iam-aniket/Interview-Prep/blob/main/String%20to%20Integer.cpp)<br/>
+
+# Day 3
+5.[Container With Most water](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Container%20With%20Most%20Water.cpp)<br/>
+6.🔵[Trapping Rain Water](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Longest%20Palindromic%20Substring.cpp)<br/>
 
