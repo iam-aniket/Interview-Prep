@@ -15,6 +15,6 @@ Initializing the repo with my already fetched solutions.
 # Day 1
 1.🔵[Longest Substring without repeat char](https://github.com/iam-aniket/Interview-Prep/blob/main/Strings-Hard/Longest%20Substring%20without%20repeat%20char.cpp) <br />
 2.🔴[Longest Palindromic Substring](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Longest%20Palindromic%20Substring.cpp)<br />
-3.[Count Palindromic Substring](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Count%20Palindromic%20Substrings.cpp)(Easy only after solving above Q)<br/>
+3.  [Count Palindromic Substring](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Count%20Palindromic%20Substrings.cpp)(Easy only after solving above Q)<br/>
 
 
