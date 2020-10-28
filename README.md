@@ -9,7 +9,7 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 ⚫ Very Hard: 0 <br />
 ⭐ Good to review <br />
 
-# Day 0
+## Day 0
 Initializing the repo with my already fetched solutions.
 
 # Day 1
@@ -27,4 +27,10 @@ Initializing the repo with my already fetched solutions.
 # DAY 4
 7.⭐[3Sum to Zero](https://github.com/iam-aniket/Interview-Prep/blob/main/Hashing%20-%202%20PTR/3Sum.cpp)<br/>
 8.[3Sum Closest](https://github.com/iam-aniket/Interview-Prep/blob/main/Hashing%20-%202%20PTR/3Sum%20Closest.cpp)<br/>
+
+## Day 5
+9.[Remove Nth node from end of LL](https://github.com/iam-aniket/Interview-Prep/blob/main/Linked%20List/Remove%20Nth%20Node%20from%20end.cpp)<br/>
+10.[Swap LL nodes in Pairs](https://github.com/iam-aniket/Interview-Prep/blob/main/Linked%20List/Swap%20Nodes%20in%20Pairs.cpp)<br/>
+11.
+
 
