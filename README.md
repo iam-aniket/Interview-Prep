@@ -37,4 +37,11 @@ EASY waale updated
 11.🔴⭐[Generate Parenthesis - BACKTRACK](https://github.com/iam-aniket/Interview-Prep/blob/main/Backtrack/Generate%20Parenthesis.cpp)<br/>
 12.🔵[Search in Rotated Sorted Array](https://github.com/iam-aniket/Interview-Prep/blob/main/Arrays/Search%20in%20Rotated%20Sorted%20Array.cpp)<br/>
 
+## Day 7
+13.🔵⭐[First and Last Position in Sorted Array](https://github.com/iam-aniket/Interview-Prep/blob/main/Binary%20Search/First%20and%20Last%20position%20in%20Sorted%20Array.cpp)<br/>
+14.[Bad API - similar modified BS](https://github.com/iam-aniket/Interview-Prep/blob/main/Binary%20Search/Bad%20API.cpp)<br/>
+
+## Day 8
+15.
+
 
