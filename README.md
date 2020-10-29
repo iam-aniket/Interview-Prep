@@ -42,6 +42,8 @@ EASY waale updated
 14.[Bad API - similar modified BS](https://github.com/iam-aniket/Interview-Prep/blob/main/Binary%20Search/Bad%20API.cpp)<br/>
 
 ## Day 8
-15.
+15.🔵[Next Permutation](https://github.com/iam-aniket/Interview-Prep/blob/main/Strings-Hard/Next%20Permutation.cpp)<br/>
+16.🔵⭐[Valid Sudoku](https://github.com/iam-aniket/Interview-Prep/blob/main/Backtrack/Valid%20Sudoku.cpp) Do Rows+Cols+Box <br/>
+17.🔴⭐[Combinational Sum 1](https://github.com/iam-aniket/Interview-Prep/blob/main/Backtrack/Combinational%20Sum%201.cpp) VVI Refer NB<br/>
 
 
