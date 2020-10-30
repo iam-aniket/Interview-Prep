@@ -50,6 +50,6 @@ EASY waale updated
 18.[Combinational Sum 2](https://github.com/iam-aniket/Interview-Prep/blob/main/Backtrack/Combinational%20Sum%202.cpp)<br/>
 19.⭐[Permutations of an Array](https://github.com/iam-aniket/Interview-Prep/blob/main/Backtrack/Permutations.cpp) Backtrack with Swap in Array itself<br/>
 20.[Unique Paths in Matrix - DP](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Unique%20Paths-1.cpp) As dp[i][j] = dp[i-1][j] + dp[i][j-1]<br/>
-21.🔴[Unique Paths 2 - With Obstacles] Similar Just avoid Obstacles by check of dp[i-1][j-1]<br/>
+21.🔴.[Unique Paths 2 - With Obstacles] Similar Just avoid Obstacles by check of dp[i-1][j-1]<br/>
 
 
