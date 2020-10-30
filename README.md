@@ -4,7 +4,7 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 ### Difficulty Levels solved
 
 ⚪ Easy: 21 <br />
-🔵 Medium: 13 <br />
+🔵 Medium: 22 <br />
 🔴 Hard: 1 <br />
 ⚫ Very Hard: 0 <br />
 ⭐ Good to review <br />
@@ -45,5 +45,11 @@ EASY waale updated
 15.🔵[Next Permutation](https://github.com/iam-aniket/Interview-Prep/blob/main/Strings-Hard/Next%20Permutation.cpp)<br/>
 16.🔵⭐[Valid Sudoku](https://github.com/iam-aniket/Interview-Prep/blob/main/Backtrack/Valid%20Sudoku.cpp) Do Rows+Cols+Box <br/>
 17.🔴⭐[Combinational Sum 1](https://github.com/iam-aniket/Interview-Prep/blob/main/Backtrack/Combinational%20Sum%201.cpp) VVI Refer NB<br/>
+
+## Day 9
+18.[Combinational Sum 2](https://github.com/iam-aniket/Interview-Prep/blob/main/Backtrack/Combinational%20Sum%202.cpp)<br/>
+19.⭐[Permutations of an Array](https://github.com/iam-aniket/Interview-Prep/blob/main/Backtrack/Permutations.cpp) Backtrack with Swap in Array itself<br/>
+20.[Unique Paths in Matrix - DP](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Unique%20Paths-1.cpp) As dp[i][j] = dp[i-1][j] + dp[i][j-1]<br/>
+21.🔴[Unique Paths 2 - With Obstacles] Similar Just avoid Obstacles by check of dp[i-1][j-1]<br/>
 
 
