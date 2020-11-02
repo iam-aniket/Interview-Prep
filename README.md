@@ -58,3 +58,4 @@ Revision - DO IT!
 ## Day 11
 22.🔴⭐[Permutations 2 - Repeat Ele - So use Set + BT](https://github.com/iam-aniket/Interview-Prep/blob/main/Backtrack/Permutations%202.cpp)<br/>
 23.[Rotate Matrix - 90 clk wise](https://github.com/iam-aniket/Interview-Prep/blob/main/Rotate%20Matrix%2090%20clk%20wise.cpp)<br/>
+24.[Spiral Matrix](https://github.com/iam-aniket/Interview-Prep/blob/main/Spiral%20Matrix.cpp) Implementation + Edge Case when empty Matrix - Ref DESC<br/>
