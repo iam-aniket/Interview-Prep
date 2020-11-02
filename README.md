@@ -52,4 +52,9 @@ EASY waale updated
 20.[Unique Paths in Matrix - DP](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Unique%20Paths-1.cpp) As dp[i][j] = dp[i-1][j] + dp[i][j-1]<br/>
 21.🔴.[Unique Paths 2 - With Obstacles] Similar Just avoid Obstacles by check of dp[i-1][j-1]<br/>
 
+## Day 10
+Revision - DO IT!
 
+## Day 11
+22.🔴⭐[Permutations 2 - Repeat Ele - So use Set + BT](https://github.com/iam-aniket/Interview-Prep/blob/main/Backtrack/Permutations%202.cpp)<br/>
+23.[Rotate Matrix - 90 clk wise](https://github.com/iam-aniket/Interview-Prep/blob/main/Rotate%20Matrix%2090%20clk%20wise.cpp)<br/>
