@@ -59,3 +59,7 @@ Revision - DO IT!
 22.🔴⭐[Permutations 2 - Repeat Ele - So use Set + BT](https://github.com/iam-aniket/Interview-Prep/blob/main/Backtrack/Permutations%202.cpp)<br/>
 23.[Rotate Matrix - 90 clk wise](https://github.com/iam-aniket/Interview-Prep/blob/main/Rotate%20Matrix%2090%20clk%20wise.cpp)<br/>
 24.[Spiral Matrix](https://github.com/iam-aniket/Interview-Prep/blob/main/Spiral%20Matrix.cpp) Implementation + Edge Case when empty Matrix - Ref DESC<br/>
+
+## Day 12
+15.🔵[Jump Game](https://github.com/iam-aniket/Interview-Prep/blob/main/Jump%20Game.cpp)Think Simpler - Max index that can be reached<br/>
+16.[Merge Intervals](https://github.com/iam-aniket/Interview-Prep/blob/main/Sorting/Merge%20Intervals.cpp)Sort - NlogN - combine<br/>
