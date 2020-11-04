@@ -6,7 +6,7 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 ⚪ Easy: 23 <br />
 🔵 Medium: 26 <br />
 🔴 Hard: 1 <br />
-⚫ Very Hard: 0 <br />
+⚫ Very Hard: 1 <br />
 ⭐ Good to review <br />
 
 ## Day 0
