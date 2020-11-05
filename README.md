@@ -63,3 +63,9 @@ Revision - DO IT!
 ## Day 12
 15.🔵[Jump Game](https://github.com/iam-aniket/Interview-Prep/blob/main/Jump%20Game.cpp)Think Simpler - Max index that can be reached<br/>
 16.[Merge Intervals](https://github.com/iam-aniket/Interview-Prep/blob/main/Sorting/Merge%20Intervals.cpp)Sort - NlogN - combine<br/>
+
+## Day 13
+Accenture internship - on campus prep so couldnt do much
+
+## Day 14
+17.[Spiral Matrix 2](https://github.com/iam-aniket/Interview-Prep/blob/main/Spiral%20Matrix%202.cpp) Easy - Just like Spiral 1 - Implement properly
