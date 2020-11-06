@@ -70,3 +70,7 @@ Accenture internship - on campus prep so couldnt do much
 ## Day 14
 17.[Spiral Matrix 2](https://github.com/iam-aniket/Interview-Prep/blob/main/Spiral%20Matrix%202.cpp) Easy - Just like Spiral 1 - Implement properly
 Cleared Tech + Coding Round : ACCENTURE
+
+## Day 15
+18.🔴⭐[Set Matrix Zeroes](https://github.com/iam-aniket/Interview-Prep/blob/main/Set%20Matrix%20Zeroes.cpp) Use first row and column as temp array - like hashing <br/>
+19.[Minimum Path Sum](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Minimum%20Path%20Sum.cpp) DP - use grid itself for O(1) SC <br/>
