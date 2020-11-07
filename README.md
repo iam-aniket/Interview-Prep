@@ -75,3 +75,7 @@ Cleared Tech + Coding Round : ACCENTURE<br/>
 18.🔴⭐[Set Matrix Zeroes](https://github.com/iam-aniket/Interview-Prep/blob/main/Set%20Matrix%20Zeroes.cpp) Use first row and column as temp array - like hashing <br/>
 19.[Minimum Path Sum](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Minimum%20Path%20Sum.cpp) DP - use grid itself for O(1) SC <br/>
 20.⭐[Dutch National Flag Algo - Sorting](https://github.com/iam-aniket/Interview-Prep/blob/main/Sorting/Dutch%20National%20Flag.cpp) VVI- Standard + Visualize<br/>
+
+## Day 16
+21.[Search in Sorted 2-D Matrix](https://github.com/iam-aniket/Interview-Prep/blob/main/Binary%20Search/Search%20in%20sorted%202-D%20Matrix.cpp) First find Col - then search in that row<br/>
+
