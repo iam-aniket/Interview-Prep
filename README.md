@@ -79,3 +79,6 @@ Cleared Tech + Coding Round : ACCENTURE<br/>
 ## Day 16
 21.🔴⭐[Search in Sorted 2-D Matrix](https://github.com/iam-aniket/Interview-Prep/blob/main/Binary%20Search/Search%20in%20sorted%202-D%20Matrix.cpp) First find Col - then search in that row<br/>
 
+## Day 17
+22.[4 Sum](https://github.com/iam-aniket/Interview-Prep/blob/main/Hashing%20-%202%20PTR/4%20Sum.cpp) First SORT - then Fix two i and j then find other two by 2-PTR then skip duplicates<br/>
+
