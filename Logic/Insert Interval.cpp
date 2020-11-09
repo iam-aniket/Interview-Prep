@@ -1,5 +1,6 @@
 #define pb push_back
 #define rep(i,a,n) for(int i = a; i < n; i++)
+
 class Solution {
 public:
 	vector<vector<int>> insert(vector<vector<int>>& a, vector<int>& x)
