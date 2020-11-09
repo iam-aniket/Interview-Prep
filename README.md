@@ -82,3 +82,7 @@ Cleared Tech + Coding Round : ACCENTURE<br/>
 ## Day 17
 22.🔴⭐[4 Sum](https://github.com/iam-aniket/Interview-Prep/blob/main/Hashing%20-%202%20PTR/4%20Sum.cpp) First SORT - then Fix two i and j then find other two by 2-PTR then skip duplicates<br/>
 
+## Day 18
+23.⭐[Group Anangrams](https://github.com/iam-aniket/Interview-Prep/blob/main/Hashing%20-%202%20PTR/Group%20Anagrams.cpp) Sort every string + then add to map <br/>
+14.⭐[Insert Interval](https://github.com/iam-aniket/Interview-Prep/blob/main/Logic/Insert%20Interval.cpp) Logic :- Left + Middle merge + rest Right all <br/>
+
