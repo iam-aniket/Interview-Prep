@@ -84,5 +84,9 @@ Cleared Tech + Coding Round : ACCENTURE<br/>
 
 ## Day 18
 23.⭐[Group Anangrams](https://github.com/iam-aniket/Interview-Prep/blob/main/Hashing%20-%202%20PTR/Group%20Anagrams.cpp) Sort every string + then add to map <br/>
-14.⭐[Insert Interval](https://github.com/iam-aniket/Interview-Prep/blob/main/Logic/Insert%20Interval.cpp) Logic :- Left + Middle merge + rest Right all <br/>
+24.⭐[Insert Interval](https://github.com/iam-aniket/Interview-Prep/blob/main/Logic/Insert%20Interval.cpp) Logic :- Left + Middle merge + rest Right all <br/>
+
+## Day 19
+25.⚫🔴⭐[Remove Duplicates 2 - Keep only Unique - Linked list](https://github.com/iam-aniket/Interview-Prep/blob/main/Linked%20List/Remove%20Duplicates%202%20-%20Keep%20only%20unique.cpp) DANGEROUS Q. VVVI * <br/>
+26.[Remove Duplicates 1](https://github.com/iam-aniket/Interview-Prep/blob/main/Linked%20List/Remove%20Duplicates%201.cpp) Simple but do Rem Dupl-2 first<br/>
 
