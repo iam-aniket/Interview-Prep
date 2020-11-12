@@ -90,3 +90,7 @@ Cleared Tech + Coding Round : ACCENTURE<br/>
 25.⚫🔴⭐[Remove Duplicates 2 - Keep only Unique - Linked list](https://github.com/iam-aniket/Interview-Prep/blob/main/Linked%20List/Remove%20Duplicates%202%20-%20Keep%20only%20unique.cpp) DANGEROUS Q. VVVI * <br/>
 26.[Remove Duplicates 1](https://github.com/iam-aniket/Interview-Prep/blob/main/Linked%20List/Remove%20Duplicates%201.cpp) Simple but do Rem Dupl-2 first<br/>
 
+## Day 20
+27.⚫🔴⭐[Remove duplicates from array 2](https://github.com/iam-aniket/Interview-Prep/blob/main/Arrays/Remove%20duplicates%20from%20array%202.cpp) Rem 2 PTR + cmp with j-2 and i<br/>
+
+
