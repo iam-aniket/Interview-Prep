@@ -97,3 +97,6 @@ Cleared Tech + Coding Round : ACCENTURE<br/>
 28.🔴⭐[Add array form of integer](https://github.com/iam-aniket/Interview-Prep/blob/main/Arrays/Add%20array%20form%20of%20integer.cpp)------------------>HARD to think like this in interview<------------------<br/>
 29.[Subset 1](https://github.com/iam-aniket/Interview-Prep/blob/main/Backtrack/Subset%201.cpp)Refer desc in github for general LC link for all BT<br/>
 30.[Subset 2](https://github.com/iam-aniket/Interview-Prep/blob/main/Backtrack/Subset%202.cpp)THIS link: - https://leetcode.com/problems/subsets/discuss/27281/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning) <br/>
+
+## Day 22
+31.[Decode WAYS 1 - DP](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Decode%20Ways%201.cpp) DP logic think how to use value at dp[pos-2] and dp[pos-1]<br/>
