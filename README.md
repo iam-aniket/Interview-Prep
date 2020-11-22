@@ -100,3 +100,6 @@ Cleared Tech + Coding Round : ACCENTURE<br/>
 
 ## Day 22
 31.[Decode WAYS 1 - DP](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Decode%20Ways%201.cpp) DP logic think how to use value at dp[pos-2] and dp[pos-1]<br/>
+
+## Day 23
+REVISION of most till now Part 1
