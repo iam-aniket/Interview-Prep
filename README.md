@@ -16,7 +16,7 @@ EASY waale updated
 ## Day 1
 1.🔵[Longest Substring without repeat char](https://github.com/iam-aniket/Interview-Prep/blob/main/Strings-Hard/Longest%20Substring%20without%20repeat%20char.cpp) Rachit Jain 2 PTR and count array <br />
 2.🔴⭐[Longest Palindromic Substring](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Longest%20Palindromic%20Substring.cpp)<br />
-3.[Count Palindromic Substring](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Count%20Palindromic%20Substrings.cpp)(Easy only after solving above Q)<br/>
+3.[Count Palindromic Substring](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Count%20Palindromic%20Substrings.cpp) (Easy only after solving above Q)<br/>
 
 ## Day 2
 4.BAKWAAS - [String to Integer](https://github.com/iam-aniket/Interview-Prep/blob/main/String%20to%20Integer.cpp)<br/>
@@ -104,5 +104,5 @@ Cleared Tech + Coding Round : ACCENTURE<br/>
 ## Day 23
 REVISION of most till now Part 1
 
-## DAy 24
+## Day 24
 Revision - BREAK
