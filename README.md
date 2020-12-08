@@ -106,3 +106,9 @@ REVISION of most till now Part 1
 
 ## Day 24
 Revision - BREAK
+
+# ------------------------------------------------------------------------ LONG Break ------------------------------------------------------------------------
+
+## Day 25
+32.[Reverse Linked List 1](https://github.com/iam-aniket/Interview-Prep/blob/main/Linked%20List/Reverse%20LL%20-%201.cpp) Easy<br/>
+33.[REV LL 2](https://github.com/iam-aniket/Interview-Prep/blob/main/Linked%20List/Reverse%20LL%20-%202.cpp) HARD - saw soln only - REFER <br/>
