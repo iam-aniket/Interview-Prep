@@ -3,7 +3,7 @@ My solutions to coding interview problems on LeetCode, AlgoExpert, Codewars, EPI
 
 ### Difficulty Levels solved
 
-⚪ Easy: 25 <br />
+⚪ Easy: 24 <br />
 🔵 Medium: 40 <br />
 🔴 Hard: 1 <br />
 ⚫ Very Hard: 2 <br />
