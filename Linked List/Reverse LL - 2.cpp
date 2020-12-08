@@ -18,3 +18,4 @@ public:
        return dummy -> next;
    }
 };
+![image](https://user-images.githubusercontent.com/63105008/101472768-056b4000-396f-11eb-9991-22c6e970fcf7.png)
