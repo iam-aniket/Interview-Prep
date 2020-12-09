@@ -112,3 +112,7 @@ Revision - BREAK
 ## Day 25
 32.[Reverse Linked List 1](https://github.com/iam-aniket/Interview-Prep/blob/main/Linked%20List/Reverse%20LL%20-%201.cpp) Easy<br/>
 33.🔴⭐[REV LL 2](https://github.com/iam-aniket/Interview-Prep/blob/main/Linked%20List/Reverse%20LL%20-%202.cpp) HARD - saw soln only - REFER <br/>
+
+## Day 26
+34.[Decompose IP Address](https://github.com/iam-aniket/Interview-Prep/blob/main/Backtrack/Decompose%20IP%20addr.cpp) Backtrack Revise + Analyse<br/>
+35.[Validate IP Address](https://github.com/iam-aniket/Interview-Prep/blob/main/Validate%20IP%20addr.cpp) <br/>
