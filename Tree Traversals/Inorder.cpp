@@ -1,3 +1,12 @@
+/*
+There are three solutions to this problem.
+
+Iterative solution using stack: O(n) time and O(n) space;
+Recursive solution: O(n) time and O(n) space (function call stack);
+Morris traversal: O(n) time and O(1) space.
+
+*/
+//------------------------------REFER Description---------------MORRIS traversal------------------------------//
 /**
  * Definition for a binary tree node.
  * struct TreeNode
