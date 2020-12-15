@@ -117,3 +117,5 @@ Revision - BREAK
 34.[Decompose IP Address](https://github.com/iam-aniket/Interview-Prep/blob/main/Backtrack/Decompose%20IP%20addr.cpp) Backtrack Revise + Analyse<br/>
 35.[Validate IP Address](https://github.com/iam-aniket/Interview-Prep/blob/main/Validate%20IP%20addr.cpp) <br/>
 
+## Day 27
+36.[Validate BST](https://github.com/iam-aniket/Interview-Prep/blob/main/BST/Validate%20BST.cpp) Refer Solution with direct break at traversal<br/>
