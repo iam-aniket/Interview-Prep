@@ -22,8 +22,9 @@ EASY waale updated
 4.BAKWAAS - [String to Integer](https://github.com/iam-aniket/Interview-Prep/blob/main/String%20to%20Integer.cpp)<br/>
 
 ## Day 3
-5.[Container With Most water](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Container%20With%20Most%20Water.cpp)<br/>
-6.🔵[Trapping Rain Water](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Trapping%20Rain%20Water.cpp)<br/>
+5.[Container With Most water](https://github.com/iam-aniket/Interview
+6.-Prep/blob/main/DP/Container%20With%20Most%20Water.cpp)<br/>
+7.🔵[Trapping Rain Water](https://github.com/iam-aniket/Interview-Prep/blob/main/DP/Trapping%20Rain%20Water.cpp)<br/>
 
 ## DAY 4
 7.⭐[3Sum to Zero](https://github.com/iam-aniket/Interview-Prep/blob/main/Hashing%20-%202%20PTR/3Sum.cpp)<br/>
